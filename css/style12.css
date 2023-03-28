@@ -1,0 +1,102 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/3359154.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.facebook{
+    font-size:20px;
+    padding-left: 10px;
+    margin-left: 60px;
+    margin-top: 50px;
+    color:  rgb(78, 131, 201);
+}
+.join{
+    margin-left: 650px;
+    padding-top: 20px;
+}
+
+
+
+
+.container1{
+    margin-left: 250px;
+    margin-top: 100px;
+    float: left;
+    font-size: 20px;
+}
+
+
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(78, 131, 201);
+}
+p{
+    word-spacing:2px;
+}
+.container2{
+    width: 300px;
+    max-width:1;
+     background-color:rgba(111, 96, 96, 0.414);
+    /* background-image: linear-gradient(to top right, green,red); */
+    padding:20px;
+    border-radius: 20px;
+    box-shadow: 4px 5px 5px black;
+    float: right;
+    margin-right:380px;
+    margin-top: 50px;
+}
+
+.classimg{
+    font-size: 100px;
+    margin-right:40px;
+    color: rgb(78, 131, 201) ;
+}
+
+form{
+    width:150px;
+    height:20px;
+    margin-left:1px;
+    margin-top: 5px;
+    margin-bottom:1px;
+    max-width: 20px;
+    padding: 20px;
+  
+    
+}
+
+.para1{
+    padding-left: 70px;
+    color: aliceblue;
+}
+.button1{
+    height:30px;
+    width:239px;
+    background-color: rgb(84, 150, 225);
+    margin-left:18px ;
+    text-align: center;
+    border-radius: 5px;
+    border-color: rgb(84, 150, 225); 
+    font-size: 15px;
+
+}
+.button2{
+    height:35px;
+    width:170px;
+    background-color:rgb(12, 174, 12);
+    color: white;
+    margin-top: 25px;
+    margin-left:55px ;
+    border-radius:5px; 
+    border-color:rgb(12, 174, 12);
+    font-size: 15px;
+
+}
+
+.copy1{
+    padding-left:580px;
+    padding-top: 530px;
+    font-size: 17px;
+}
+

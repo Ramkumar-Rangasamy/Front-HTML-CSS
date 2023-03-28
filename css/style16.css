@@ -1,0 +1,51 @@
+body{
+    background-image:linear-gradient(to right, palevioletred, rgb(170, 16, 16),  palevioletred); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+
+
+.container3{
+    background-image:url(https://www.lovethispic.com/uploaded_images/246075-Beautiful-Monday.jpg);
+    background-size: cover;
+    height:280px;
+    width: 20%;
+    position: relative;
+    left:250px;
+    bottom: 115px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px plum;
+    
+}
+
+.container1{
+    background-color: azure;
+    height: 350px;
+    width: 55%;
+    position: relative;
+    left: 330px;
+    top:200px;
+    border-radius: 20px;
+}
+
+.container2{
+    margin: 500px;
+    position: relative;
+    bottom: 900px;
+    left:110px;
+}
+
+button{
+    text-align: center;
+    height: 35px;
+    width: 150px;
+    margin:20px;
+    border-color: palevioletred;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+
+

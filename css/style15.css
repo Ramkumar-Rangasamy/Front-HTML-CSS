@@ -1,0 +1,126 @@
+*{
+
+    margin: 0px;
+    padding: 0px;   
+    box-sizing: border-box;
+    cursor: pointer;
+}
+#section{
+    background-image: url(https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2022/12/31/ajith-thunivu.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height:745px;
+}
+.section1{
+    background-color: rgba(20, 22, 22, 0.8);
+    position: absolute;
+    top: 0;
+    left:0;
+    width: 100%;
+    height: 100%;
+}
+.divil{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background-color: rgba(147, 178, 181, 0.2);
+    border-radius: 10px;
+    color:  rgb(182, 170, 170);
+    margin-top: 20px;
+    height: 60px;
+    margin-right: 40px;
+    margin-left: 40px;
+    
+}
+
+.head{
+    margin-left: 30px;
+    color:orange;
+    margin-bottom:10px;
+}
+
+span{
+    
+    font-size:25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.over:hover{
+    text-decoration: underline;
+    color: hotpink;
+
+}
+
+nav li{
+    display: inline;
+    font-weight: 1000;
+    padding-right: 100px;
+    margin-left: 50px;
+    margin-top: 2px;
+
+ 
+}
+
+
+.live{
+    color: rgb(182, 170, 170);
+    margin-left:70px;
+    margin-right:800px;
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(147, 178, 181, 0.2);
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+
+.web{
+    color: rgb(182, 170, 170);
+    margin-top: 130px;
+    margin-left:600px;
+    margin-right: 350px;
+    text-align: center;
+    background-color: rgba(147, 178, 181, 0.2);
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 10px;
+
+    
+}
+.span1{
+    color:yellow;
+    font-size: 30px;
+}
+
+.flooter{
+    color:  rgb(182, 170, 170);
+    margin-top: 30px;
+    margin-left: 780px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 4px;
+    width: 250px;
+    height: 40px;
+    outline: 2px outset yellow;
+    position: relative;
+   
+    
+}
+h4{
+    color: rgb(182, 170, 170);
+    margin-top: 85px;
+    text-align: center;
+    margin-right: 150px;
+}
+
+
+
+ 
+
+
+
+

@@ -1,0 +1,95 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/03/74/59/70/360_F_374597052_pkqWv2ivx1WhrTucEYifjGW6euwmKEez.jpg);
+    width: 30%;
+    height: 400px;
+    background-size: cover;   
+    background-repeat: no-repeat;
+}
+
+.div1{
+    background-image: url(https://images.pexels.com/photos/1156684/pexels-photo-1156684.jpeg?cs=srgb&dl=pexels-arun-thomas-1156684.jpg&fm=jpg);
+    background-size: cover;
+    color: aliceblue;
+    width: 350px;
+    height: 500px;
+    margin-top: 150px;
+    margin-left: 300px;
+    transform: rotate(-15deg);
+    border-radius: 20px;
+    box-shadow: -25px -25px 20px black;
+}
+.head1{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.para1{
+    font-size: 20px;
+    color:whitesmoke;
+    padding-top: 350px;
+    padding-left: 20px;
+}
+
+
+.div2{
+    background-image: url(https://e0.pxfuel.com/wallpapers/869/503/desktop-wallpaper-lion-powerful.jpg);
+    color:white;
+    width: 330px;
+    height: 600px;
+    position: relative;
+    left: 570px;
+    bottom: 550px;
+    transform: rotate(15deg);
+    border-radius: 20px;
+}
+
+.head2{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+
+.div3{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMDdiYjQ1YzQtN2JkNi00YWI2LWJmZTMtYzZhMjk1YjEwYjgxXkEyXkFqcGdeQXVyMTI5MzI5MTc4._V1_.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    width: 330px;
+    height: 500px;
+    position: relative;
+    left: 540px;
+    bottom: 1000px;
+    transform: rotate(15deg);
+    border-radius: 20px;
+    border: 2px solid white;
+    box-shadow: 25px 25px 20px black;
+}
+
+.head3{
+    color:black;
+    padding-left: 35px;
+    padding-top: 30px;
+    
+}
+
+.para2{
+    font-size: 20px;
+    color: whitesmoke;
+    padding-top: 370px;
+    padding-left: 30px;
+}
+
+.div4{
+    font-family: 'Carter One', cursive;
+    /* font-family: 'Rampart One', cursive; */
+    font-size: 30px;
+    position: relative;
+    left: 1100px;
+    bottom: 1300px;
+}

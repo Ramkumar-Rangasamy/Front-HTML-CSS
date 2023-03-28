@@ -1,0 +1,220 @@
+.head1{
+    background-color: aqua;
+    height: 50px;
+   
+}
+.head2{
+    background-color: violet;
+    height: 50px;
+   
+}
+ 
+.container1{
+    width:100%;
+    text-align: center;
+
+}
+
+ /* .row{ 
+    display: flex;
+    margin-left: -15px;
+    margin-right: -15px;
+} */
+ 
+.col-1{
+    width: 8.33%;
+    float: left;
+}
+.col-2{
+    width: 16.66%;
+    float: left;
+}
+.col-3{
+    width: 25%;
+    float: left;
+}
+.col-4{
+    width: 33.33%;
+    float: left;
+}
+.col-5{
+    width: 41.66%;
+    float: left;
+}
+.col-6{
+    width: 50%;
+    float: left;
+}
+.col-7{
+    width: 58.33%;
+    float: left;
+}
+.col-8{
+    width: 66.66%;
+    float: left;
+}
+.col-9{
+    width: 75%;
+    float: left;
+}
+.col-10{
+    width: 83.38%;
+    float: left;
+}
+.col-11{
+    width: 91.66%;
+    float: left;
+}
+.col-12{
+    width: 100%;
+    float: left;
+}
+
+@media screen and (max-width:786px) {
+    [class *="col-"]
+    {
+     width: 100%; 
+
+    }
+}
+
+/* .p{
+    padding: 10px;
+}  */
+
+.container2{
+    text-align: center;
+
+}
+
+.head3{
+    background-color: darkorchid;
+    height: 50px;
+    
+}
+
+.head4{
+    background-color: forestgreen;
+    height: 50px;
+}
+
+.head5{
+    background-color: hotpink;
+    height: 50px;
+}
+
+.container3{
+    text-align: center;
+}
+.head6{
+    background-color: dodgerblue;
+    height: 50px;
+}
+.head7{
+    background-color: darkslategray;
+    height: 50px;
+}
+.head8{
+    background-color: indigo;
+    height: 50px;
+}
+.head9{
+    background-color: magenta;
+    height: 50px;
+}
+
+.container4{
+    text-align: center;
+}
+
+.head10{
+    background-color: bisque;
+    height: 50px;
+}
+.head11{
+    background-color:darkred;
+    height: 50px;
+}
+.head12{
+    background-color:greenyellow;
+    height: 50px;
+}
+.head13{
+    background-color:cornflowerblue;
+    height: 50px;
+}
+.head14{
+    background-color:sienna;
+    height: 50px;
+}
+.head15{
+    background-color:slategrey;
+    height: 50px;
+}
+
+.container5{
+    text-align: center;
+}
+
+.head16{
+    background-color:honeydew;
+    height: 50px;
+}
+.head17{
+    background-color:gold;
+    height: 50px;
+}
+.head17{
+    background-color:khaki;
+    height: 50px;
+}
+.head18{
+    background-color:blue;
+    height: 50px;
+}
+.head19{
+    background-color:lightpink;
+    height: 50px;
+}
+.head20{
+    background-color:rebeccapurple;
+    height: 50px;
+}
+.head21{
+    background-color:honeydew;
+    height: 50px;
+}
+.head22{
+    background-color:forestgreen;
+    height: 50px;
+}
+.head23{
+    background-color:olive;
+    height: 50px;
+}
+.head24{
+    background-color:whitesmoke;
+    height: 50px;
+}
+.head25{
+    background-color:darkmagenta;
+    height: 50px;
+}
+.head26{
+    background-color:darkturquoise;
+    height: 50px;
+}
+.head27{
+    background-color:forestgreen;
+    height: 50px;
+}
+
+.container6{
+    text-align: center;
+}
+
+.head28{
+    background-color: lightcoral;
+    height: 50px;
+}
+

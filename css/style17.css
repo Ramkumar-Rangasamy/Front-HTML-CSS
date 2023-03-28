@@ -1,0 +1,455 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+  /* section1 */
+
+.container1{
+    background-image: url("https://img.freepik.com/free-photo/young-family-with-their-sons-home-having-fun_1303-20999.jpg?w=1060&t=st=1677504070~exp=1677504670~hmac=39d635662311ac79df41cd821d82b3977fc34f51e8bfca471ba14887769313f9");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+}
+.container2{
+    background-color:rgba(241, 10, 10, 0.763);
+    opacity: 0.6;
+    height: 70vh;
+    width: 100%;
+}
+
+ul li{
+    display: inline;
+    list-style-type: none;
+    margin-left: 50px;
+    color: aliceblue;
+    font-size: 25px;
+
+}
+
+.icon1{
+   margin-top:30px;
+   padding-right:15px;
+}
+
+.icon2{
+    margin-top: 30px;
+    margin-right: 30px;
+    float: right;
+    height: 28px;
+    width: 200px;
+    border-radius: 20px;
+    border-color: white;
+}
+
+.heading1{
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+    font-size: 60px;
+}
+
+.para1{
+    color:white;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 400px;
+    padding-right:400px;
+
+}
+
+.button1{
+    font-size: 20px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left:640px;
+}
+
+/* section2 */
+
+.container3{
+    background-color:whitesmoke;
+    width: 100%;
+    height: 35vh;
+}
+
+.para2{
+    font-size: 18px;
+    padding-top: 50px;
+    margin-left:500px;
+    margin-right: 500px;
+    text-align: center;
+
+}
+.hr1{
+    padding-top:35px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.div1{
+  
+  padding-top: 35px;
+  text-align: center;
+}
+
+/* section3 */
+
+
+.container4{
+    background-color:rgba(21, 20, 20, 0.848);
+    color: white;
+    height:35vh;
+    width:100%;
+
+}
+
+.icon3{
+    text-align: center;
+    float: left;
+    color: rgb(237, 11, 11);
+    margin-top: 70px;
+    margin-left:300px;
+    font-size: 25px;    
+}
+
+.hr2{
+    margin-top: 20px;
+}
+
+.icon4{
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.figure1{
+    text-align: center;
+    color:white;
+    font-size:20px;
+    margin-top: 25px;
+}
+
+/* section4 */
+
+
+.container5{
+    background-image: url("https://img.freepik.com/free-photo/playful-father-daughter-having-fun-their-new-home_637285-12394.jpg?w=1060&t=st=1677520639~exp=1677521239~hmac=5c146b87ef473119c97a627fc2ca1fb3c5c26f05d0a0cf78a6bb2c49bf72cbba");
+    background-size: cover;
+    height: 70vh;
+    width: 100%;    
+}
+.container6{
+    background-color:rgba(241, 10, 10, 0.763);
+    opacity: 0.6;
+    height: 70vh;
+    width: 100%;    
+}
+
+.divisionpara2{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top:200px;
+}
+
+.button2{
+    font-size: 20px;
+    border-color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    margin-top: 40px;
+}
+
+/* section5 */
+
+.container7{
+    background-color:whitesmoke;
+    width: 100%;
+    height: 600px;
+}
+
+.para3{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 60px;
+}
+
+.hr3{
+    color: rgba(206, 35, 35, 0.901);
+    padding-top: 40px;
+    margin-left: 280px;
+    margin-right: 280px;
+}
+
+.figure3{
+    text-align: center;
+    padding-top: 40px;
+    float: left;
+    margin-left:165px;
+    padding-left: 100px;
+   
+}
+
+
+.icon6{
+    border:2px solid red;
+    color: red;
+    font-size: 30px;
+    border-radius: 100px;
+    padding: 20px;
+   
+}
+
+.hr4{
+    margin-top: 50px;
+    color: rgb(199, 31, 31);
+    margin-left: 280px;
+    margin-right: 280px;
+    padding-top: 155px;
+}
+
+.paradiv1{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;    
+}
+
+.button3{
+    background-color: black;
+    font-size: 20px;
+    color: aliceblue;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    margin-top: 60px;   
+}
+
+/* section6 */
+
+
+.container8{
+    background-image: url("https://ibcdn.imagesbazaar.com/img1024/14841/SM564033.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 60vh;
+    width: 100%;
+
+     
+}
+.container9{
+    background-color:rgba(241, 10, 10, 0.763);
+    opacity: 0.6;
+    height: 60vh;
+    width: 100%;
+    overflow: hidden;
+}  
+
+.change1{
+    text-align: center;
+    color:aliceblue;
+    font-size: 50px;
+    margin-top:150px;
+}
+
+.button4{
+    font-size: 20px;
+    border-color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    margin-top: 60px;
+    
+}
+
+/* section7 */
+
+.container10{
+    height:50vh;
+    width: 100%;
+
+}
+
+.divsion1{
+    background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/19818/300-SM966323.jpg);
+    width: 50%;
+    height: 50vh; 
+    float: left; 
+}
+
+.divison2{
+    background-color: rgb(15, 102, 178);
+    width: 50%;
+    height: 50vh; 
+    float: left; 
+}
+
+.h2heading{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 100px;
+    padding-left: 50px; 
+    padding-right: 50PX;
+}
+
+.paradiv2{
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 100px;
+    padding-right: 50PX;
+}
+
+.button5{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 250px;   
+}
+
+.divison3{
+    background-color:whitesmoke;
+    width: 50%;
+    height: 50vh; 
+    float: left;
+}
+
+.divsion4{
+    background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/19741/220-SM958833.jpg);
+    width: 50%;
+    height: 50vh; 
+    float: left; 
+} 
+ 
+/* section8 */
+ .container11{
+    width: 100%;
+    height: 100vh;
+    background-color:rgba(21, 20, 20, 0.848);
+ }
+
+ .divcold1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    padding:32%;
+ }
+
+ .hred1{
+    margin-top: 20px;
+ }
+
+ /* section */
+
+ .container12{
+    width: 100%;
+    height:50vh;
+    background-color: rgba(216, 46, 46, 0.892);
+ }
+
+ .icon10{
+    font-size: 40px;
+ }
+
+ .uicon1{
+    font-size: 20px;
+    color: aliceblue;
+    padding-top: 155px;
+    padding-left: 100px;
+    float: left;
+
+ }
+
+ .uiconhold1{
+    font-size: 45px;
+ }
+
+.uicon2{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+    padding-top: 160px;
+    padding-left: 130px;
+    float: left;
+ }
+
+.uicon3{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+    padding-top: 140px;
+    padding-left: 110px;
+    float: left;
+ } 
+
+ .uiconhold3{
+    font-size: 30px;
+ } 
+
+.uicon4{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+    padding-top: 140px;
+    padding-left: 100px;
+    float: left;
+ }
+
+
+ .uicon5{
+    display: inline;
+    text-align: center;
+    font-size: 35px;
+    color: aliceblue;
+    padding-top: 180px;
+    padding-left: 110px;
+    float:left;
+ } 
+
+/* section10  */
+
+.container20{
+    width: 100%;
+    height: 15vh;
+    background-color: rgba(21, 20, 20, 0.848);;
+}
+
+.container123{
+    font-size: 23px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 30px;
+
+}
+
+/* colsing */
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

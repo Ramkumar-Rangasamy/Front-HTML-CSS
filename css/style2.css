@@ -1,0 +1,32 @@
+body{
+    background:url(/images/images2/pngtree-blue-technology-e-commerce-learning-education-business-poster-banner-image_123753.jpg);
+    background-size: cover;
+}
+img{
+    border-radius:20px;
+    height:300px;
+    width:450px;
+}
+.container1{ 
+   
+   margin-right:700px;
+   margin-left:600px;
+   margin-top: 100px;
+   margin-bottom:200px;
+}
+label{
+    margin-right:40px;
+    margin-left:40px;
+}
+#Username{
+    text-align: center;
+    background-color:white;   
+}
+#Password{
+    text-align: center;
+    background-color: whitesmoke;
+}
+#button1{
+    margin-right:110px;
+    margin-left:110px;
+}

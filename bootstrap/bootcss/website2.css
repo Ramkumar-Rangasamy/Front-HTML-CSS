@@ -1,0 +1,36 @@
+.navbar li{
+  display: inline-block;
+  text-decoration: none;
+  margin-left: px;
+  margin-right: 100px;
+  padding:10px;
+  
+}
+
+
+
+
+.alert {
+    text-align: right;
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+  }
+
+  .alert1 {
+
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+  } 
+
+ .five{
+    background-color: aqua;
+ } 
+  
+
+  

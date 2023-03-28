@@ -1,0 +1,45 @@
+
+
+
+
+span{ 
+    color:black;
+    text-align: center;
+    position: relative;
+    margin-top: 350px;
+    letter-spacing: 50px;
+    font-size: 100px;
+    z-index: 2;
+    display: flex;
+}
+
+
+.div1{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 1100px;
+    bottom: 200px; 
+    animation-duration: 3s;
+    animation-name: ram;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+    z-index: 1;
+    
+
+    
+}
+
+@keyframes ram{
+   from{
+   left: 400px; 
+   } 
+
+   to{
+   right:800px;
+   }   
+} 
+

@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    text-align: center;
+
+}
+.div{
+    text-align:center;
+    margin:80px;
+}
+.div1{
+    height:150px;
+    width:450px;
+    float:left;
+    margin:10px;
+    text-align:center;
+}
+h2{
+    color: lightslategray;
+}
+.img{
+  font-size:45px ;
+}

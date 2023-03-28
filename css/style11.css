@@ -1,0 +1,57 @@
+.container1{
+    text-align: center;
+    margin-top:70px;
+    color: red;
+
+}
+.icon1{
+    font-size: 75px;
+}
+.icon2{
+    font-size: 25px;
+    color: red; 
+    padding-right: 20px;
+    margin-top:10px;
+}
+.container2{
+    background-color:gainsboro;
+    height:350px;
+    width: 1000px;
+    margin-left: 300px;
+    padding-top: 20px;
+    border-radius:10px;
+    
+    
+}
+.child1{
+    margin-left:100px;
+    padding: auto;
+    height: 200px;
+    font-size:20px;
+    word-spacing: 1px;
+}
+i{
+    margin-left:20px;
+
+}
+.button1{
+    margin-top:70px;
+    margin-left:200px;
+    height: 40px;
+    width: 180px;
+    background-color: red;
+    border-radius:10px;
+    border-color: red;
+    box-shadow: 4px 4px 5px black;
+
+}
+button{
+    margin-left:40px;
+    height: 40px;
+    width: 180px;
+    border-radius:10px;
+    border-color:white;
+    box-shadow: 4px 4px 5px black;
+
+}
+

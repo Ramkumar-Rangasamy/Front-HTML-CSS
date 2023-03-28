@@ -1,0 +1,144 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+
+body{
+    background-color:whitesmoke;
+}
+
+
+.icon1{
+    color:grey;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 40px;
+    padding-left: 670px; 
+    
+}
+
+.container1{
+    width: 400px;
+    height:585px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left:530px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black ; 
+}
+
+.icon2{
+    padding: 30px;
+}
+.icon3{
+    padding-left: 260px;
+    padding-right: 10px;
+    color: red;
+}
+
+.container2{
+    width: 160px;
+    height: 160px;
+    padding-left: 120px;
+    
+}
+
+.img{
+    border-radius: 100px;
+}
+
+.icon5{
+    color: white;
+    font-size: 20px;
+    background-color: rgb(194, 14, 166);
+    border-radius: 15px;
+    position: relative;
+    left: 130px;
+    bottom: 40px;
+}
+
+.head1{
+    text-align: center;
+    padding-top: 5px;
+}
+
+.para1{
+    color: gray;
+    text-align: center;
+    padding-top: px;
+}
+.para2{
+    text-align: center;
+    padding-top: 2px;
+    padding-left: 10px;
+    padding-right:10px ;
+    
+}
+button{
+     background-color:  rgb(226, 21, 127); 
+     text-align: center;
+     color: aliceblue;
+     width: 130px;
+     height: 40px;
+     border-radius: 20px;
+     border-color: rgb(226, 21, 127); 
+     margin-left: 130px;
+     margin-top: 10px;
+    
+}
+
+.hr2{
+    margin: 15px 20px;
+}
+
+.icon10{
+    text-align: center;
+    float: left;
+    padding-left: 50px;
+    padding-top: 40px;
+
+}
+
+.icon13{
+    font-size: 30px;
+    color: rgba(0, 0, 255, 0.553);
+    border-radius: 20px;
+}
+
+.icon11{
+    text-align: center;
+    float: left;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+.icon14{
+    font-size: 30px;
+    color:rgb(47, 170, 20);
+    border-radius: 20px;
+}
+
+.icon12{
+    text-align: center;
+    float: left;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+.icon15{
+    font-size: 30px;
+    color:rgb(230, 112, 9);
+    border-radius: 20px;
+}
+
+.copy{
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 100px;
+}
+
+.icon16{
+    color: grey
+}
+
